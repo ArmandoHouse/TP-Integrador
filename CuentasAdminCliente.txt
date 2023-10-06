@@ -1,0 +1,7 @@
+ADMIN:
+mail: joaquin@gmail.com    
+contra: pass1234
+
+CLIENTE:
+mail:jorge@gmail.com
+contra:123456
